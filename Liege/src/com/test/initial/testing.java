@@ -9,7 +9,7 @@ public class testing {
 		//TR: JFrame test
 		JFrame frame = new JFrame("Hello World");
 		frame.setSize(500,500);
-		
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 	}
 
