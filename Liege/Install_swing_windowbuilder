@@ -1,0 +1,9 @@
+Install WindowBuilder for Eclipse.
+> Help
+	> Install New Software 
+		> Paste "http://download.eclipse.org/windowbuilder/lastgoodbuild/" 
+			> Next
+				> Next
+					> Accept Licence Agreement
+						> Finish
+							> Wait for software installation
